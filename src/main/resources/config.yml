@@ -1,0 +1,17 @@
+windCharge:
+  name: '&bFake Wind Charge'
+  lore: []
+  power: 1.0
+  knockbackSize: 1.0
+messages:
+    perm: '&cVocê não tem permissão!'
+    onlyPlayers: '&cSomente jogadores podem usar este comando!'
+    reload: '&aConfig recarregado!'
+    noPlayerFound: '&cTal jogador não foi encontrado!'
+    types: '&fTypes:&a %s'
+    given: '&aO item foi dado ao jogador.'
+    incorrectInput: '&cVocê inseriu informações incorretas, Erro: %s'
+    inventoryFull: '&cInventario Cheio!'
+    help:
+      usage:
+        give: '&cUsage: /wc dar <type> <amount> [player]'

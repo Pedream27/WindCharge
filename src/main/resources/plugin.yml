@@ -1,0 +1,8 @@
+name: WindCharge
+version: '1.0-SNAPSHOT'
+main: br.dev.phsaraiva.windCharge.WindCharge
+api-version: '1.21'
+author: Pedro Saraiva
+commands:
+  WindCharge:
+    aliases: [wc]
